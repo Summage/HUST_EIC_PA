@@ -1,1 +1,3 @@
-# HUST_EIC_PA
+# HUST_EIC_MATHMODEL_PA
+
+数学建模课程
